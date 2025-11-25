@@ -1,2 +1,2 @@
 # merge_conflict_assignment
-# Person A — Local Edit
+# Person B — Web Edit
