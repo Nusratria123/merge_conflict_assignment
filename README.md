@@ -1,1 +1,1 @@
-# Resolved Conflict
+# Person B Second Title — Conflict 2
